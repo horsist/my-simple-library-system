@@ -1,0 +1,24 @@
+.total{
+    margin-top: 100px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    margin-left: 100px;
+    border: red;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 20px;
+    font: normal 16px Arial;
+
+}
+.login_a:hover{
+    background: gray;
+    color: red;
+    font: normal 20px sans-serif;
+    margin-left: 5px;
+    cursor:default;
+
+}
+
+
+
